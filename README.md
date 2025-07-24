@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Vitor 👋
 
-<!--
-**Vitorv7/Vitorv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera  
+💻 Também formado em Tecnologia da Informação pela DNC (conclusão em Agosto de 2024)  
+🚀 Buscando minha primeira oportunidade como estagiário em **Análise de Dados** ou **Desenvolvimento Web**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, SQL, HTML, CSS  
+- **Ferramentas:** Power BI, VS Code, Git & GitHub
+
+---
+
+### 📈 Interesses Atuais
+- Desenvolvimento Web Front-End
+- Análise de Dados com Python e Power BI
+- Projetos práticos para portfólio
+
+---
+
+### 📂 Meus Projetos
+Confira meus projetos no GitHub:  
+🔗 [github.com/Vitorv7](https://github.com/Vitorv7)
+
+---
+
+### 📫 Contato
+Entre em contato comigo pelo [)
+
