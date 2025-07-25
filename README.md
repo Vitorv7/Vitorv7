@@ -26,5 +26,5 @@ Confira meus projetos no GitHub:
 ---
 
 ### 📫 Contato
-Entre em contato comigo pelo [)
+Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/vitor-da-silva-1a29a728b/)
 
