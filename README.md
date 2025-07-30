@@ -1,7 +1,6 @@
 # Olá, eu sou o Vitor 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera  
-💻 Também formado em Tecnologia da Informação pela DNC (conclusão em Agosto de 2024)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera
 🚀 Buscando minha primeira oportunidade como estagiário em **Análise de Dados** ou **Desenvolvimento Web**
 
 ---
