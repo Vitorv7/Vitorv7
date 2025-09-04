@@ -1,29 +1,16 @@
 # Olá, eu sou o Vitor 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera
-🚀 Buscando minha primeira oportunidade como estagiário em **Análise de Dados** ou **Desenvolvimento Web**
+Sou estudante de **Ciência de Dados** e apaixonado por **tecnologia, programação e análise de dados**.  
+Estou em busca da minha primeira oportunidade como **estagiário em Análise de Dados**, aplicando meus conhecimentos em projetos reais e desafiadores.
 
----
-
-### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, SQL, HTML, CSS  
-- **Ferramentas:** Power BI, VS Code, Git & GitHub
-
----
-
-### 📈 Interesses Atuais
-- Desenvolvimento Web Front-End
-- Análise de Dados com Python e Power BI
-- Projetos práticos para portfólio
-
----
-
-### 📂 Meus Projetos
-Confira meus projetos no GitHub:  
-🔗 [github.com/Vitorv7](https://github.com/Vitorv7)
-
----
-
-### 📫 Contato
-Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/vitor-da-silva-1a29a728b/)
+💻 **Tecnologias e habilidades:**  
+- Python (avançado)  
+- SQL  
+- HTML, CSS, JavaScript (básico/intermediário)  
+- Power BI e Excel  
+- Lógica de programação e análise de dados  
+ 
+📫 **Contato:**  
+- Email: viitor.dasilvaa@gmail.com  
+- LinkedIn: [linkedin.com/in/vitor-da-silva-1a29a728b](https://linkedin.com/in/vitor-da-silva-1a29a728b)
 
