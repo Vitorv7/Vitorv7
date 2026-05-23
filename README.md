@@ -1,16 +1,33 @@
 # Olá, eu sou o Vitor 👋
 
-Sou estudante de Ciência de Dados, apaixonado por tecnologia, programação e análise de dados. Tenho conhecimentos em Python, SQL, Power BI e Excel, aplicando técnicas de tratamento, visualização e interpretação de dados.
-Busco minha primeira oportunidade como estagiário em Análise de Dados, onde eu possa contribuir com análises, criação de dashboards e insights baseados em dados, participando de projetos reais e desafiadores.
+🎓 Estudante de Ciência de Dados apaixonado por tecnologia, análise de dados e desenvolvimento de soluções orientadas por dados.
 
-💻 **Tecnologias e habilidades:**  
-- Python (avançado)  
-- SQL  
-- HTML, CSS, JavaScript (básico/intermediário)  
-- Power BI e Excel  
-- Lógica de programação e análise de dados  
- 
-📫 **Contato:**  
-- Email: viitor.dasilvaa@gmail.com  
-- LinkedIn: [linkedin.com/in/vitor-da-silva-1a29a728b](https://linkedin.com/in/vitor-da-silva-1a29a728b)
+Atualmente venho desenvolvendo projetos utilizando Power BI, SQL e Python, aplicando conceitos de tratamento de dados, visualização, criação de KPIs e dashboards interativos com foco em geração de insights.
+
+Busco minha primeira oportunidade como estagiário em Análise de Dados, onde eu possa evoluir tecnicamente, contribuir com análises estratégicas e participar de projetos reais na área de dados.
+
+## 💻 Tecnologias e Habilidades
+
+* Power BI
+* DAX
+* SQL
+* Python
+* Excel
+* HTML, CSS e JavaScript
+* Tratamento e visualização de dados
+* Criação de KPIs e dashboards
+* Lógica de programação
+
+## 📊 Atualmente estudando
+
+* Análise de Dados
+* Business Intelligence
+* Modelagem de Dados
+* Storytelling Visual
+
+## 📫 Contato
+
+* Email: [viitor.dasilvaa@gmail.com](mailto:viitor.dasilvaa@gmail.com)
+* LinkedIn: linkedin.com/in/vitor-da-silva-1a29a728b
+
 
